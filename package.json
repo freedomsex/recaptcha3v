@@ -1,0 +1,22 @@
+{
+  "name": "@freedomsex/recaptcha3v",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/freedomsex/recaptcha3v.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freedomsex/recaptcha3v/issues"
+  },
+  "homepage": "https://github.com/freedomsex/recaptcha3v#readme",
+  "devDependencies": {
+    "standard-version": "^9.0.0"
+  }
+}
