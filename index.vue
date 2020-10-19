@@ -5,7 +5,11 @@ export default {
     error: false,
   }),
   mounted() { },
-  methods: { },
+  methods: {
+    reset() {
+      this.error = false;
+    },
+  },
 };
 </script>
 
