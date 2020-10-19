@@ -1,9 +1,9 @@
 <script>
 export default {
   props: [],
-  data() {
+  data: () => ({
     error: false,
-  },
+  }),
   mounted() { },
   methods: { },
 };
